@@ -1,4 +1,4 @@
-# Siamese and triplet learning with online pair/triplet mining
+# Siamese and Triplet learning MNIST Dataset
 
 PyTorch implementation of siamese and triplet networks for learning embeddings.
 
